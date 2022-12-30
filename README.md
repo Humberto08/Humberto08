@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Humberto Luciano
-- Student of Quality Assurance (Qa. Coders)
+- Student Quality Assurance (Qa. Coders)
 - Student Full Stack Devloper (Gama Academy) 
 
 <div align="center">

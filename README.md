@@ -8,20 +8,12 @@
   <img height="180em" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=humberto08&layout=compact&langs_count=7&theme=dark"/>
 </div>
   
-<div style="display: inline_block"><br>
-  <img align="center" alt="Humberto-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img align="center" alt="Humberto-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  <img align="center" alt="Humberto-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-  <img align="center" alt="Humberto-Ts" height="30" width="40" <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" />
-  <img align="center" alt="Humberto-NodeJs" height="30" width="40" <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" />
-  <img align="center" alt="Humberto-Bootstrap" height="30" width="40" <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" />
-  <img align="center" alt="Humberto-SQLServer" height="30" width="40" <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain-wordmark.svg" />
-  <img align="center" alt="Humberto-MySql" height="30" width="40" <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" />
-  <img align="center" alt="Humberto-MongoDB" height="30" width="40" <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-plain-wordmark.svg" />
-  <img align="center" alt="Humberto-Jira" height="30" width="40" <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jira/jira-original-wordmark.svg" />
-  
-  
-  </div>
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=arduino,aws,azure,c,cs,cpp,css,discord,django,dotnet,dynamodb,eclipse,figma,git,github,gitlab,gherkin,gtk,haxe,html,java,js,jenkins,jest,jquery,latex,kubernetes,matlab,maven,mysql,nodejs,postgres,powershell,postgres,py,pytorch,r,react,redux,sass,spring,selenium,tensorflow,ts,unity,v,visualstudio,vscode" />
+  </a>
+</p>          
+</div>
   
   ##
   

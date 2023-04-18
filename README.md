@@ -10,7 +10,7 @@
   
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=arduino,css,git,html,js,jenkins,jest,jquery,latex,kubernetes,matlab,maven,mysql,nodejs,postgres,powershell,postgres,py,pytorch,r,react,redux,sass,spring,selenium,tensorflow,ts,unity,v,visualstudio,vscode" />
+    <img src="https://skillicons.dev/icons?i=arduino,css" />
   </a>
 </p>          
 </div>

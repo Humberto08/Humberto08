@@ -3,6 +3,7 @@
 - Full Stack Developer Student (Gama Academy)
 - Quality Assurance
  
+ 
 <div align="center">
   <a href="https://github.com/humberto08">
   <img height="180em" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=humberto08&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>

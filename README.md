@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Humberto Luciano
 
-- Full Stack Developer Student (Gama Academy)
+- Full Stack Developer
 - Quality Assurance
  
  

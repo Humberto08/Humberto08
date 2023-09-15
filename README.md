@@ -1,6 +1,7 @@
 - 👋 Hi, I’m Humberto Luciano
 
 - Full Stack Developer
+- Backend Engineer
 - Quality Assurance
  
  

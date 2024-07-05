@@ -13,7 +13,7 @@
   
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=html,css,js,ts,py,react,nextjs,redux,tailwind,bootstrap,sass,nodejs,express,fastapi,mysql,postgres,mongodb,firebase,prisma,planetscale,sequelize,docker,terraform,githubactions,gitlab,jenkins,kubernetes,gcp,aws,git,postman,jest" />
+    <img src="https://skillicons.dev/icons?i=html,css,js,ts,py,react,nextjs,redux,tailwind,bootstrap,sass,nodejs,nestjs,express,fastapi,mysql,postgres,mongodb,firebase,prisma,planetscale,sequelize,docker,terraform,githubactions,gitlab,jenkins,kubernetes,gcp,aws,git,postman,jest" />
   </a>
 </p>          
 </div>

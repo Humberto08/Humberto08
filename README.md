@@ -1,9 +1,6 @@
-- 👋 Hi, I’m Humberto Luciano
+## 👋 Hi there, welcome to my Github profile
+- My name is Humberto Luciano and i'm a Fullstack Engenieer Node, from João Pessaoa, Brazil 🇧🇷
 
-- Full Stack Engineer
-- Backend Engineer
-- Quality Assurance
- 
   ##
   
 <div align="center">
@@ -12,8 +9,8 @@
   <img height="180em" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=humberto08&layout=compact&langs_count=7&theme=dark"/>
 </div>
 
-  ##
-  
+  ## My Techs
+
 <p align="center">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=html,css,js,ts,py,react,nextjs,redux,tailwind,bootstrap,sass,nodejs,nestjs,express,fastapi,mysql,postgres,mongodb,firebase,prisma,planetscale,sequelize,docker,terraform,githubactions,gitlab,jenkins,kubernetes,gcp,aws,git,postman,jest" />
@@ -21,7 +18,7 @@
 </p>          
 </div>
   
-  ##
+  ## My Stats
   
  <div> 
  

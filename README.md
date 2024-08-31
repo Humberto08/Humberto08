@@ -1,7 +1,7 @@
 ## 👋 Hi there, welcome to my Github profile
 - My name is Humberto Luciano and i'm a Fullstack Engenieer Node, from João Pessaoa, Brazil 🇧🇷
 
-  ##
+  ## My Stats
   
 <div align="center">
   <a href="https://github.com/humberto08">
@@ -18,7 +18,7 @@
 </p>          
 </div>
   
-  ## My Stats
+  ## My Social Media
   
  <div> 
  

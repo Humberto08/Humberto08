@@ -7,7 +7,7 @@
   <a href="https://github.com/humberto08">
   <img height="180em" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=humberto08&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=humberto08&layout=compact&langs_count=7&theme=dark"/>
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=humberto08&radius=16&theme=dark&area=true&order=5&hide_title=false&hide_border=true" height="200" alt="activity-graph graph"  />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=humberto08&radius=16&theme=dark&area=true&order=5&hide_title=false&hide_border=true" height="250" alt="activity-graph graph"  />
 </div>
 
   ## My Techs
